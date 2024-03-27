@@ -1,0 +1,9 @@
+[submodule "binary_tree"]
+	path = binary_tree
+	url = https://github.com/Braulee7/Rust-Binary-Tree.git
+[submodule "dll"]
+	path = dll
+	url = https://github.com/Braulee7/Rust-Doubly-Linked-List.git
+[submodule "linked_list"]
+	path = linked_list
+	url = https://github.com/Braulee7/Rust-Linked-List.git
